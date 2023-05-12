@@ -43,4 +43,5 @@
   <catalogs>Catalog.Товары</catalogs>
   <documents>Document.ПоступлениеТоваровОтПоставщиков</documents>
   <documents>Document.РеализацияТоваров</documents>
+  <documents>Document.Тестовый</documents>
 </mdclass:Configuration>
